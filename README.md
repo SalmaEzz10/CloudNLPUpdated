@@ -32,6 +32,8 @@ Accepts a raw Arabic address string, runs it through a preprocessing pipeline, a
 ---
 ## Download model.safetensors
             from (https://drive.google.com/drive/folders/1wHWKPISB-5ctJzEhoQsL6NE_X1LGtYFT?usp=sharing)
+            link download direct
+(https://drive.usercontent.google.com/download?id=1QwH7bmoV00iorTlry9lnKu6XTSYOcuiR&export=download&authuser=0&confirm=t&uuid=cbde58da-bb79-4dcc-a015-85ec35dc4bca&at=ALBwUgkcmSQrxnMKh4lT8s6-p13d:1777493572841)
 ```
 
 ## Run Locally
