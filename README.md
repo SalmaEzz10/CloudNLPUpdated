@@ -18,16 +18,16 @@ Accepts a raw Arabic address string, runs it through a preprocessing pipeline, a
 ## Project Structure
 
 
-├── main.py              
-├── preprocess.py         
-├── requirements.txt     
-├── Dockerfile            
-└── arabertNER_Model/     
-    ├── training_args.bin
-    ├── tokenizer_config.json
-    ├── model.safetensors    
-    ├── tokenizer.json
-    └── config.json
+1- main.py              
+2- preprocess.py         
+3- requirements.txt     
+4- Dockerfile            
+5- arabertNER_Model/     
+    5.1- training_args.bin
+    5.2- tokenizer_config.json
+    5.3- model.safetensors    
+    5.4- tokenizer.json
+    5.5- config.json
 ```
 ---
 ## Download model.safetensors
