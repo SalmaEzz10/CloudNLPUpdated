@@ -25,7 +25,8 @@ Accepts a raw Arabic address string, runs it through a preprocessing pipeline, a
 └── arabertNER_Model/     
     ├── training_args.bin
     ├── tokenizer_config.json
-    ├── model.safetensors         Download from (https://drive.google.com/drive/folders/1wHWKPISB-5ctJzEhoQsL6NE_X1LGtYFT?usp=sharing)
+    ├── model.safetensors         
+                    Download from (https://drive.google.com/drive/folders/1wHWKPISB-5ctJzEhoQsL6NE_X1LGtYFT?usp=sharing)
     ├── tokenizer.json
     └── config.json
 ```
