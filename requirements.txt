@@ -1,0 +1,10 @@
+fastapi
+mangum
+uvicorn
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+pydantic
+arabert
+accelerate
+emoji
+regex
