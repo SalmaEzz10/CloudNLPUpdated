@@ -114,4 +114,4 @@ def preprocessing(address):
     # address = numArabicFloor(address)
     address = " ".join(address.split())
 
-    return address.lower()
+    return address
